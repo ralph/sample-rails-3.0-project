@@ -1,7 +1,7 @@
 # Edit this Gemfile to bundle your application's dependencies.
 
 gem "arel", "0.2.pre", :git => "git://github.com/rails/arel.git"
-gem "rack", "1.0.1", :git => "git://github.com/rails/rack.git"
+gem "rack", "1.1.0", :git => "git://github.com/rack/rack.git"
 gem "rails", "3.0.pre", :git => "git://github.com/rails/rails.git"
 
 ## Bundle edge rails:
